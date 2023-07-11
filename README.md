@@ -4,7 +4,7 @@
 This project aims to leverage the power of Long Short-Term Memory (LSTM) neural networks to generate music based on MIDI files. MIDI files contain musical information such as notes, durations, and velocities, making them suitable for training an LSTM model to learn the patterns and structures of musical compositions.
 
 
-## Data Set Description :
+## Data Set Description 
 The dataset consists of a collection of MIDI files containing piano notes. MIDI (Musical Instrument Digital Interface) is a standard file format that represents musical information and specifically capture piano performances or compositions.These MIDI events include note-on and note-off messages, which indicate when a note starts and ends, as well as additional control messages for attributes like velocity (volume), pitch bend, modulation, and sustain pedal usage.
 
 ## Project Steps
