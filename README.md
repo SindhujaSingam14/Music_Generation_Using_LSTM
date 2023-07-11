@@ -1,6 +1,6 @@
 # Music Generation using LSTM
 
-## Summary:
+## Summary
 This project aims to leverage the power of Long Short-Term Memory (LSTM) neural networks to generate music based on MIDI files. MIDI files contain musical information such as notes, durations, and velocities, making them suitable for training an LSTM model to learn the patterns and structures of musical compositions.
 
 
